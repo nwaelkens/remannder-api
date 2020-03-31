@@ -1,3 +1,4 @@
-# Strapi application
+# API Remannder
 
-A quick description of your strapi application
+An api for the remannder app. Build with Strapi
+
